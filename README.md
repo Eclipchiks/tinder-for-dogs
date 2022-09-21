@@ -1,2 +1,1 @@
-# tinder-for-dogs
-0_0
+TinDog Starting Files
